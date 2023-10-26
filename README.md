@@ -8,8 +8,4 @@ I study in Netology
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="90" height="90" />
 </p>
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
 
-assets/github-snake.svg
